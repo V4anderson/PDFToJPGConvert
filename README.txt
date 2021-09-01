@@ -1,0 +1,2 @@
+Recebi um trabalho para realizar conversões de PDFs em arquivos de imagens, era um trabalho ardo, e demorado, cansativo  e totalmente viavel para ser feito de forma
+automaizada, ai veio a ideia de criar um script que realizasse as conversões de forma automatizada.
